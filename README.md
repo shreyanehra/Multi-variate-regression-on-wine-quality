@@ -29,13 +29,12 @@ pip install pandas numpy matplotlib scikit-learn
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/multi-variate-linear-regression.git
-```
+git clone https://github.com/your_username/Multi-variate-regression-on-wine-quality.git
 
 2. Navigate to the project directory:
 
 ```bash
-cd multi-variate-linear-regression
+cd Multi-variate-regression-on-wine-quality
 ```
 
 3. Run the script:
