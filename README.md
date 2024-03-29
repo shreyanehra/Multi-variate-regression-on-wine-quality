@@ -20,7 +20,7 @@ To run the script, you'll need:
 
 You can install the required libraries using pip:
 
-```bash
+```
 pip install pandas numpy matplotlib scikit-learn
 ```
 
